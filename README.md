@@ -16,6 +16,4 @@ For each item:
 * item kind - (e.g. Hangar decoration)
 * item liner - (e.g. Anvil Aerospace (ANVL) )
 
-Get the script here: https://github.com/joshuawebb1988/myhangar_parser
-
 Usage: Use your web browser to save each page from your "My Hangar" as 'p1.html', 'p2.html', ... 'pN.html' in the working directory, run the script, input the 'N' pages you downloaded, open the .tsv files in Excel. Easy!
